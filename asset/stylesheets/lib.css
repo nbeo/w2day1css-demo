@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    background-color: darkblue;
+}
+#landing {
+    background-image: url(../images/Porsche-Panamera-Sport-Turismo-11.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2em;
+}
+
+p {
+    color: #ffffff;
+    font-size: 24px;
+}
